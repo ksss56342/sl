@@ -1,4 +1,4 @@
 {
     "medulla_axo": "true",
-    "Jackismahboy": "true"
+    "Jackismahbojy": "true"
 }
