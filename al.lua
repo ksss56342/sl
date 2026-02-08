@@ -5,5 +5,6 @@
     "Kanyefan123124": "true",
     "Lacynx": "true",
     "jnzv": "true",
-    "osintist": "true"
+    "osintist": "true",
+    "adDuffah": "true"
 }
