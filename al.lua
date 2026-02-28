@@ -7,5 +7,6 @@
     "q2zz": "true",
     "osintist": "true",
     "adDuffah": "true",
-    "gaxl": "true"
+    "gaxl": "true",
+    "SachayMLG": "true"
 }
